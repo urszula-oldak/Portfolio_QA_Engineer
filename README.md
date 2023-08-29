@@ -1,1 +1,3 @@
-# Portfolio_QA_Engineer
+## Cześć
+
+### W tym miejscu znajdują się moje projekty oraz zgłoszenia bugów.
