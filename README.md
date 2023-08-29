@@ -21,7 +21,7 @@
 <img src="BUG_zgłoszenie - mediamarkt.pl-infolinia.png" alt="Zgłoszenie BUG mediamarkt.pl-infolinia">
 
 <h4>Błąd wyświetlania się zakładki "status zamówienia" na stronie mediamarkt.pl.</h4>
-<video src="BUG mediamarkt.pl-status zamówienia.mp4" >BUG mediamarkt.pl-status zamówienia</video>
+<video> <source src="BUG mediamarkt.pl-status zamówienia.mp4" type="video/mp4">BUG mediamarkt.pl-status zamówienia</video>
 <img src="BUG_zgłoszenie - mediamarkt.pl-status zamówienia.png" alt="Zgłoszenie BUG mediamarkt.pl-status zamówienia">
 
 </div>
