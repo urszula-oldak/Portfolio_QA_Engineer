@@ -1,6 +1,16 @@
 ## Portfolio
 
-### Zgłoszenia bugów:
+<h2>Przykładowe przypadki testowe</h2>
+<div>
+<h3>Strona <a href="https://skleptest.pl/"> skleptest.pl</a> </h3>
+<h4>Stworzyłam przykładowe przypadki testowe testów funkcjonalnych modułów wyszukiwania i koszyka przykładowej strony do ćwiczenia testowania dostępnej pod adresem <a href="https://skleptest.pl/"> skleptest.pl</a>.</h4>
+<h4>Przypadki testowe zostały stworzone w aplikacji Qase. Poniżej znajduje się widok programu z przypadkami testowymi oraz link do wyeksportowanych przypadków testowych w formacie PDF.</h4>
+<img src="Widok Qase - przypadki testowe_testy funkcjonalne.jpg" alt="Widok Qase - przypadki testowe_testy funkcjonalne">
+<a href="https://drive.google.com/file/d/1EjmZE_hDEAJ_RTAVuke8repvLgvmuTc1/view?usp=sharing">Przypadki testowe.pdf</a>
+
+</div>
+
+<h2> Zgłoszenia bugów aplikacji internetowych:</h2>
 
 <div>
 <h3>Strona analityk.edu.pl</h3>
