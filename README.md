@@ -3,10 +3,15 @@
 <h2>Przykładowe przypadki testowe</h2>
 <div>
 <h3>Strona <a href="https://skleptest.pl/"> skleptest.pl</a> </h3>
-<h4>Stworzyłam przykładowe przypadki testowe testów funkcjonalnych modułów wyszukiwania i koszyka przykładowej strony do ćwiczenia testowania dostępnej pod adresem <a href="https://skleptest.pl/"> skleptest.pl</a>.</h4>
+<h4>Stworzyłam przykładowe przypadki testowe testów funkcjonalnych modułów wyszukiwania i koszyka przykładowej aplikacji do ćwiczenia testowania dostępnej pod adresem <a href="https://skleptest.pl/"> skleptest.pl</a>.</h4>
 <h4>Przypadki testowe zostały stworzone w aplikacji Qase. Poniżej znajduje się widok programu z przypadkami testowymi oraz link do wyeksportowanych przypadków testowych w formacie PDF.</h4>
 <img src="Widok Qase - przypadki testowe_testy funkcjonalne.jpg" alt="Widok Qase - przypadki testowe_testy funkcjonalne">
 <a href="https://drive.google.com/file/d/1EjmZE_hDEAJ_RTAVuke8repvLgvmuTc1/view?usp=sharing">Przypadki testowe.pdf</a>
+
+<h4>Wykonałam testy funkcjonalne modułów wyszukiwania i koszyka według stworzonych powyżej przypadków testowych. </h4>
+<h4>Raport z testów oraz raporty błędów wykonałam w aplikacji Qase. Poniżej znajduje się widok programu z raportem przeprowadzonych testów oraz link do wyeksportowanego raportu z testów w formacie PDF.</h4>
+<img src="Widok Qase - rapoty testów_testy funkcjonalne.jpg" alt="Widok Qase - raport testów_testy funkcjonalne">
+<a href="https://drive.google.com/file/d/14Z19iygYIReb9xAE3DcCuKzPSMZ3WJIR/view?usp=sharing">Raport testów.pdf</a>
 
 </div>
 
