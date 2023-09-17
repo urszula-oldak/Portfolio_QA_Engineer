@@ -1,6 +1,6 @@
 ## Portfolio
 
-<h2>Przykładowe przypadki testowe</h2>
+<h2>Przykładowe testy aplikacji</h2>
 <div>
 <h3>Strona <a href="https://skleptest.pl/"> skleptest.pl</a> </h3>
 <h4>Stworzyłam przykładowe przypadki testowe testów funkcjonalnych modułów wyszukiwania i koszyka przykładowej aplikacji do ćwiczenia testowania dostępnej pod adresem <a href="https://skleptest.pl/"> skleptest.pl</a>.</h4>
