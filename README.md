@@ -1,4 +1,4 @@
-<h1> Portfolio</h1>
+<h1 style="color: green" style="teskt-align: center"> Portfolio</h1>
 
 <diV>
 
