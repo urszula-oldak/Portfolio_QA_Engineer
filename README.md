@@ -13,7 +13,7 @@ Aplikacja umożliwia śledzenie i planowanie finansów osobistych poprzez umożl
 Nasza grupa testowa liczyła dziewięć osób. Jako tester przeprowadziłam testy statyczne dokumantacji technicznej aplikacji oraz stworzyłam raport defektów.
 Zajmowałam się przygotowaniem checklist, przypadków testowych, wykonywaniem testów oraz raportowaniem błędów strony statystyk i zmiany języka aplikacji.
 </p>
-<h3>Link do projektu <a href="https://drive.google.com/drive/folders/1QmIuSWCe7IZAZM1sDD7XqpJaaPzwz_41?usp=sharing"> Projekt WALLET</a> </h3>
+<h3>Link do projektu <a href="https://github.com/urszula-oldak/Project-Wallet.git"> Projekt WALLET</a> </h3>
 
 </div>
 
