@@ -1,10 +1,10 @@
-<h1 style="color: green" style="teskt-align: center"> Portfolio</h1>
+<h1 > Portfolio</h1>
 
 <diV>
 
 <h2>Projekt WALLET</h2>
-<h4> Celem projektu było przetestowanie aplikacji webowej Wallet. Aplikacja jest dostępna w wersji desktopowej oraz na urządzenia mobilne.
-</h4>
+<p> Celem projektu było przetestowanie aplikacji webowej Wallet. Aplikacja jest dostępna w wersji desktopowej oraz na urządzenia mobilne.
+</p>
 <h4>
 Aplikacja umożliwia śledzenie i planowanie finansów osobistych poprzez umożliwienie użtkownikowi dodawania przychodów i wydatków w podziale na kategorie z uwzględnieniem daty powstania przychodów i dokonania wydatków. Aplikacja umożliwia tworzenie statystyk wydatków w poszczególnych miesiącach i latach. Dodatkowo aplikacja informuje o wysokości kursów wymiany walut.
 </h4>
