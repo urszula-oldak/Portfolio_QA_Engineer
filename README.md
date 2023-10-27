@@ -20,6 +20,16 @@ Zajmowałam się przygotowaniem checklist, przypadków testowych, wykonywaniem t
 <h2>Przykładowe testy aplikacji</h2>
 
 <div>
+<h3>Aplikacja <a href="https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth"> Restful-booker</a> </h3>
+<p>
+Przeprowadziłąm testy API aplikacji <a href="https://restful-booker.herokuapp.com/apidoc/index.html#api-Auth"> Restful-booker</a>.
+Aplikacja Restful-booker słóży do dodawania, usuwania i aktualizowania oraz przeglądania rezerwacji pobytu w hotelu.
+Testy zaplanowałam w aplikacji Jira a wykonałam w aplikacji Postman.
+</p>
+<h3>Link do raportu testów aplikacji <a href="https://github.com/urszula-oldak/API-Test_Restful-booker.git">Restful-booker</a> </h3>
+</div>
+
+<div>
 
 <h3>Strona <a href="https://skleptest.pl/"> skleptest.pl</a> </h3>
 <p>
